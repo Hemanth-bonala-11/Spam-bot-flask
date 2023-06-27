@@ -21,3 +21,4 @@ PyScreeze==0.1.29
 pytweening==1.0.7
 six==1.16.0
 Werkzeug==2.3.4
+gunicorn
